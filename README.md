@@ -1,6 +1,6 @@
 # Tournament_game, ver 1.0.rus
 
-### authors: Egor Fomin при содействии beresk_let
+### авторы: Egor Fomin при содействии beresk_let
 
 
 # Бойцовский турнир, игра
